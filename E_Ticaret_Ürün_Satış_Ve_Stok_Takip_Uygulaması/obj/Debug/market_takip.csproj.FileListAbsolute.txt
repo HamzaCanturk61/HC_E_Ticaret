@@ -1,0 +1,96 @@
+D:\ornekler\C#_net\market_takip\market_takip\bin\Debug\market_takip.exe
+D:\ornekler\C#_net\market_takip\market_takip\bin\Debug\market_takip.pdb
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form1.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Properties.Resources.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.exe
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.pdb
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form2.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form3.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form4.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form5.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form6.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form7.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form8.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form9.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form10.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form11.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form12.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form13.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form14.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form15.resources
+D:\ornekler\C#_net\market_takip\market_takip\obj\Debug\market_takip.Form16.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.exe
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.pdb
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\bin\Debug\market_takip.exe
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\bin\Debug\market_takip.pdb
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form1.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form10.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form11.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form12.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form13.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form14.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form15.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form16.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form17.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form18.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form2.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form3.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form4.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form5.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form6.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form7.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form8.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Form9.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.Properties.Resources.resources
+C:\Users\hasan\Desktop\yedek market\1\market_takip\market_takip\obj\Debug\market_takip.csproj.GenerateResource.Cache
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.exe
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.pdb
+C:\Users\hasan\Desktop\market_takip\market_takip\bin\Debug\market_takip.exe
+C:\Users\hasan\Desktop\market_takip\market_takip\bin\Debug\market_takip.pdb
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form1.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form10.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form11.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form12.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form13.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form14.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form15.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form16.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form2.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form3.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form4.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form5.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form6.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form7.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form8.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Form9.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.Properties.Resources.resources
+C:\Users\hasan\Desktop\market_takip\market_takip\obj\Debug\market_takip.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.exe
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.pdb
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\bin\Debug\market_takip.exe
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\bin\Debug\market_takip.pdb
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form1.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form10.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form11.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form12.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form13.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form14.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form15.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form16.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form2.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form3.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form4.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form5.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form6.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form7.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form8.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Form9.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.Properties.Resources.resources
+D:\ornekler\C#_net\market_takip_kod açıklamalı\market_takip\obj\Debug\market_takip.csproj.GenerateResource.Cache
+C:\Users\hasan\Desktop\projeler\market_takip\market_takip\obj\Debug\market_takip.exe
+C:\Users\hasan\Desktop\projeler\market_takip\market_takip\obj\Debug\market_takip.pdb

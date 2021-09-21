@@ -1,0 +1,48 @@
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\eticarethc.csproj.AssemblyReference.cache
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form1.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form10.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form11.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form12.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form13.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form14.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form15.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form16.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form2.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form3.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form4.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form5.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form6.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form7.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form8.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form9.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Properties.Resources.resources
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\eticarethc.csproj.GenerateResource.cache
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\eticarethc.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.exe
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.pdb
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\bin\Debug\market_takip.exe
+D:\Windows10\Desktop\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\www_gorselprogramlama_com_market_takip\bin\Debug\market_takip.pdb
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\bin\Debug\hc_eticaret.exe
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\bin\Debug\hc_eticaret.pdb
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\eticarethc.csproj.AssemblyReference.cache
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form1.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form10.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form11.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form12.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form13.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form14.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form15.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form16.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form2.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form3.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form4.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form5.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form6.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form7.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form8.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\market_takip.Form9.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\hc_eticaret.Properties.Resources.resources
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\eticarethc.csproj.GenerateResource.cache
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\eticarethc.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\hc_eticaret.exe
+D:\Windows10\Desktop\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\E Ticaret Ürün Satış Ve Stok Takip Uygulaması\www_gorselprogramlama_com_market_takip\obj\Debug\hc_eticaret.pdb
